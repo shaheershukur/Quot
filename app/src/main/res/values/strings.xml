@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">Quot#</string>
+
+    <string name="quote1">Let us sacrifice our today so that our children can have a better tomorrow.#A. P. J. Abdul Kalam</string>
+    <string name="quote2">Imagination is more important than knowledge.#Albert Einstein</string>
+    <string name="quote3">To overcome evil with good is good, to resist evil by evil is evil.#Prophet Muhammad</string>
+    <string name="quote4">Talk is cheap. Show me the code.#Linus Torvalds</string>
+    <string name="quote5">Every child is an artist. The problem is how to remain an artist once he grows up.#Pablo Picasso</string>
+    <string name="quote6">If I have seen further than others, it is by standing upon the shoulders of giants.#Isaac Newton</string>
+    <string name="quote7">Be yourself; everyone else is already taken.#Oscar Wilde</string>
+    <string name="quote8">Be the change that you wish to see in the world.#Mahatma Gandhi</string>
+    <string name="quote9">If you tell the truth, you don\'t have to remember anything.#Mark Twain</string>
+    <string name="quote10">Lost time is never found again.#Benjamin Franklin</string>
+    <string name="quote11">It\'s fine to celebrate success but it is more important to heed the lessons of failure.#Bill Gates</string>
+    <string name="quote12">There is nothing impossible to him who will try.#Alexander the Great</string>
+    <string name="quote13">The present is theirs; the future, for which I really worked, is mine.#Nikola Tesla</string>
+    <string name="quote14">Genius is one percent inspiration and ninety-nine percent perspiration.#Thomas Edison</string>
+    <string name="quote15">Good is the enemy of great.#James C Collins</string>
+    <string name="quote16">If you judge people, you have no time to love them.#Mother Teresa</string>
+    <string name="quote17">The only way to do great work is to love what you do.#Steve jobs</string>
+    <string name="quote18">Failure is simply the opportunity to begin again, this time more intelligently.#Henry Ford</string>
+    <string name="quote19">The roots of education are bitter, but the fruit is sweet.#Aristotle</string>
+    <string name="quote20">Life would be tragic if it weren\'t funny.#Stephen Hawking</string>
+
+</resources>
